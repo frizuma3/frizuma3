@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Max
-- 👀 I’m interested in building and developing software
+- 👀 I’m interested in developing and maintaining software.
 - 🌱 I'm rooted in Database Design & Management.
-- 💞️ I’m looking forward to collaborate with colleagues
-- 📫 How to reach me? Just 'link' me up. 👍
+- 💞️ I’m looking forward to collaborating with colleagues in Tech.
+- 📫 How to reach me? Just 'buzz' me. 👍
+- SQL    -JAVA    -JAVASCRIPT      -CYBER SECURITY    -NETWORKING      -SERVER MANAGEMENT  
 
 <!---
 frizuma3/frizuma3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
