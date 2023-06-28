@@ -3,7 +3,7 @@
 - 🌱 I'm rooted in Database Design & Management.
 - 💞️ I’m looking forward to collaborating with colleagues in Tech.
 - 📫 How to reach me? Just 'buzz' me. 👍
-- SQL    -JAVA    -JAVASCRIPT      -CYBER SECURITY    -NETWORKING      -SERVER MANAGEMENT  
+- SQL    -JAVA    -JAVASCRIPT    -PHP      -CYBER SECURITY    -NETWORKING      -SERVER MANAGEMENT  
 
 <!---
 frizuma3/frizuma3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
