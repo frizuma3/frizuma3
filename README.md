@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 👀 I’m interested in developing and maintaining software.
+- 👀 I’m interested in developing and maintaining database and software.
 - 🌱 I'm rooted in Database Design & Management.
 - 💞️ I’m looking forward to collaborating with colleagues in Tech.
 - 📫 How to reach me? Just 'buzz' me. 👍
